@@ -1,0 +1,82 @@
+Exploration of Association Football Attendance
+========================================================
+transition: concave
+author: Brian Meier
+date: 9/23/15
+
+class: Coursera's Developing Data Products
+
+
+
+
+Summary
+========================================================
+Compare average attendance by Club and Year for:
+- Bundlesliga (Germany)
+- EPL (England)
+- La Liga (Spain)
+- MLS (United States)
+- Serie A (Italy)
+  
+Includes Interactive:
+- Map
+- Box and Jitter Plot and Line Plots
+- Club and League Data Tables
+
+Map
+========================================================
+- Uses OpenStreetMap to allow pan and zoom
+- Places circle markers at stadium locations
+- Click shows club, league, and average attendance for slider selected year
+- Area is proportional to attendance<br>
+- Color is mapped to either attendance or change in attendance
+- Problem:  Standard palettes were not able to show small changes in attendance 
+- Solution:  A custom palette, similar to the one shown on the following slide was created and used
+
+Custom Color Palette
+========================================================
+
+```r
+library(colorRamps)
+mypal=colorRampPalette(c("blue4","blue4",
+"blue4","blue4","cyan","white","orange",
+"red4","red4","red4","red4"))
+image(as.matrix(1:200),col=mypal(200))
+```
+
+![plot of chunk unnamed-chunk-1](AttPres-figure/unnamed-chunk-1-1.png) 
+
+Plots, Data Tables, and Interesting Results
+========================================================
+left:40% 
+<small>
+- Box and Jitter Plot show distributions of attendance by league and year
+- Club Line Plot shows club attendance trajectary
+- Club Data Table shows club attendance and stadium location
+- League Data Table shows summary statistics
+- Both plots and tables are interactive
+</small>
+
+***
+
+<strong><small>Top Club Attendance for 2014/15 Season:</strong>
+
+|Team                |League      | Attendance |
+|-------------------:|:----------:|:----------|
+|Borussia Dortmand   |Bundlesliga | 80,490     |
+|Barcelona           |La Liga     | 77,632     |
+|Manchuster United   |EPL         | 75,335     |
+|Real Madrid         |La Liga     | 73,667     |
+|Bayern Munich       |Bundlesliga | 72,882     |</small>
+
+<strong><small>Latest Median Club Attendance by League:</strong>
+
+|Year|League|Attendance|
+|----|---|---| 
+|2014/2015 | Bundlesliga | 45,538|
+|2014/2015 | EPL | 34,502|
+|2015      | MLS | 20,024|
+|2014/2015 | La Liga |19,956|
+|2014/2015 | Serie A |18,233|</small>
+
+  
