@@ -1,0 +1,161 @@
+Club,League,Stadium,Add1,Add2,Add3,addStr,lat,lon
+1. FC Kaiserslautern,Bundlesliga,Fritz-Walter-Stadion,Kaiserslautern,Rhineland-Palatinate,Germany,"Fritz-Walter-Stadion,Kaiserslautern, Rhineland-Palatinate,Germany",49.4341714,7.7768069
+1. FC Koln,Bundlesliga,RheinEnergieStadion,Cologne,North Rhine-Westphalia,Germany,"RheinEnergieStadion,Cologne, North Rhine-Westphalia,Germany",50.9334609,6.8751545
+1. FC Nurnberg,Bundlesliga,Frankenstadion,Nuremberg,Bavaria,Germany,"Frankenstadion,Nuremberg, Bavaria,Germany",49.431916,11.1272747
+1. FSV Mainz 05,Bundlesliga,Coface Arena,Mainz,Rhineland-Palatinate,Germany,"Coface Arena,Mainz, Rhineland-Palatinate,Germany",49.985793,8.223652
+Arminia Bielefeld,Bundlesliga,SchucoArena,Melanchthonstrabe 31a,33615 Bielefeld,Germany,"SchucoArena,Melanchthonstrabe 31a,33615 Bielefeld,Germany",52.0318722,8.5167617
+Bayer Leverkusen,Bundlesliga,BayArena,Leverkusen,North Rhine-Westphalia,Germany,"BayArena,Leverkusen, North Rhine-Westphalia,Germany",51.0382091,7.0022566
+Bayern Munich,Bundlesliga,Allianz Arena,Munich,Bavaria,Germany,"Allianz Arena,Munich, Bavaria,Germany",48.2187997,11.6247072
+Borussia Dortmund,Bundlesliga,Signal Iduna Park,Dortmund,North Rhine-Westphalia,Germany,"Signal Iduna Park,Dortmund, North Rhine-Westphalia,Germany",51.4925888,7.4518574
+Borussia Monchengladbach,Bundlesliga,Stadion im Borussia-Park,Hennes-Weisweiler-Allee 1,41179 Monchengladbach,Germany,"Stadion im Borussia-Park,Hennes-Weisweiler-Allee 1,41179 Monchengladbach,Germany",51.1745698,6.3855055
+Eintracht Braunschweig,Bundlesliga,Eintracht-Stadion,Braunschweig,Lower Saxony,Germany,"Eintracht-Stadion,Braunschweig, Lower Saxony,Germany",52.2901273,10.5215818
+Eintracht Frankfurt,Bundlesliga,Commerzbank-Arena,Frankfurt,Hesse,Germany,"Commerzbank-Arena,Frankfurt, Hesse,Germany",50.0695549,8.646306
+Energie Cottbus,Bundlesliga,Stadion der Freundschaft,Cottbus,Brandenburg,Germany,"Stadion der Freundschaft,Cottbus, Brandenburg,Germany",51.7520204,14.3450432
+FC Augsburg,Bundlesliga,Impuls Arena,Augsburg,Bavaria,Germany,"Impuls Arena,Augsburg, Bavaria,Germany",48.3233115,10.8856287
+FC Schalke 04,Bundlesliga,Veltins-Arena,Gelsenkirchen,North Rhine-Westphalia,Germany,"Veltins-Arena,Gelsenkirchen, North Rhine-Westphalia,Germany",51.5546309,7.0675262
+FC St Pauli,Bundlesliga,Millerntor-Stadion,Hamburg,Hamburg,Germany,"Millerntor-Stadion,Hamburg, Hamburg,Germany",53.554612,9.9676895
+Fortuna Dusseldorf,Bundlesliga,Esprit Arena,Arena-Strabe 1,40474 Dusseldorf,Germany,"Esprit Arena,Arena-Strabe 1,40474 Dusseldorf,Germany",51.2615824,6.7331902
+Hamburger SV,Bundlesliga,Imtech Arena,Hamburg,Hamburg,Germany,"Imtech Arena,Hamburg, Hamburg,Germany",53.5510846,9.9936818
+Hannover 96,Bundlesliga,HDI-Arena,Hannover,Lower Saxony,Germany,"HDI-Arena,Hannover, Lower Saxony,Germany",52.3600211,9.7311938
+Hansa Rostock,Bundlesliga,DKB-Arena,Rostock,Mecklenburg-Vorpommern,Germany,"DKB-Arena,Rostock, Mecklenburg-Vorpommern,Germany",54.0857686,12.0959291
+Hertha BSC,Bundlesliga,Olympiastadion Berlin,Berlin,Berlin,Germany,"Olympiastadion Berlin,Berlin, Berlin,Germany",52.5146971,13.2394986
+Karlsruhe SC,Bundlesliga,Wildparkstadion,Adenauerring 17,76131 Karlsruhe,Germany,"Wildparkstadion,Adenauerring 17,76131 Karlsruhe,Germany",49.019303,8.4123139
+MSV Duisburg,Bundlesliga,MSV Arena,Duisburg,North Rhine-Westphalia,Germany,"MSV Arena,Duisburg, North Rhine-Westphalia,Germany",51.4344079,6.7623293
+SC Freiburg,Bundlesliga,Dreisamstadion,Schwarzwaldstrabe 193,79117 Freiburg im Breisgau,Germany,"Dreisamstadion,Schwarzwaldstrabe 193,79117 Freiburg im Breisgau,Germany",47.9581621,7.8949218
+SC Paderborn 07,Bundlesliga,Hans-Walter-Wild-Stadion,Bayreuth,Bavaria,Germany,"Hans-Walter-Wild-Stadion,Bayreuth, Bavaria,Germany",49.9456399,11.5713346
+SpVgg Greuther Furth,Bundlesliga,Paul Greifzu Stadium,Dessau,Saxony-Anhalt,Germany,"Paul Greifzu Stadium,Dessau, Saxony-Anhalt,Germany",51.8234249,12.2506843
+TSG 1899 Hoffenheim,Bundlesliga,Rhein-Neckar-Arena,Dietmar-Hopp-Strabe 1,74889 Sinsheim,Germany,"Rhein-Neckar-Arena,Dietmar-Hopp-Strabe 1,74889 Sinsheim,Germany",49.2380877,8.8878247
+VfB Stuttgart,Bundlesliga,Mercedes-Benz Arena,Mercedesstrabe 87,70372 Stuttgart,Germany,"Mercedes-Benz Arena,Mercedesstrabe 87,70372 Stuttgart,Germany",48.7922577,9.23208
+VfL Bochum,Bundlesliga,Ruhrstadion,Bochum,North Rhine-Westphalia,Germany,"Ruhrstadion,Bochum, North Rhine-Westphalia,Germany",51.4899171,7.2365126
+VfL Wolfsburg,Bundlesliga,Volkswagen Arena,Wolfsburg,Lower Saxony,Germany,"Volkswagen Arena,Wolfsburg, Lower Saxony,Germany",52.432639,10.803889
+Werder Bremen,Bundlesliga,Weserstadion,Bremen,Bremen,Germany,"Weserstadion,Bremen, Bremen,Germany",53.0664328,8.8376052
+Arsenal,EPL,Emirates Stadium,,,,"Emirates Stadium,,,",51.5549,-0.108436
+Aston Villa,EPL,Villa Park,,,,"Villa Park,,,",52.5092,-1.88508
+Barnsley,EPL,Oakwell,,,,"Oakwell,,,",53.5524,-1.46756
+Birmingham City,EPL,St Andrews,,,,"St Andrews,,,",52.4756,-1.86824
+Blackburn Rovers,EPL,Ewood Park,,,,"Ewood Park,,,",53.7286,-2.48937
+Blackpool,EPL,Bloomfield Road,,,,"Bloomfield Road,,,",53.8046,-3.04834
+Bolton Wanderers,EPL,Macron Stadium,,,,"Macron Stadium,,,",53.5805,-2.53571
+Bradford City,EPL,Valley Parade,,,,"Valley Parade,,,",53.8042,-1.75902
+Burnley,EPL,Turf Moor,,,,"Turf Moor,,,",53.7888,-2.23018
+Cardiff City,EPL,Cardiff City Stadium,,,,"Cardiff City Stadium,,,",51.4729,-3.20413
+Charlton Athletic,EPL,The Valley,,,,"The Valley,,,",51.4865,0.036757
+Chelsea,EPL,Stamford Bridge,,,,"Stamford Bridge,,,",51.4816,-0.191034
+Coventry City,EPL,Ricoh Arena,,,,"Ricoh Arena,,,",52.4481,-1.49563
+Crystal Palace,EPL,Selhurst Park,,,,"Selhurst Park,,,",51.3983,-0.085455
+Derby County,EPL,Pride Park,,,,"Pride Park,,,",52.9149,-1.44727
+Everton,EPL,Goodison Park,,,,"Goodison Park,,,",53.4387,-2.96619
+Fulham,EPL,Craven Cottage,,,,"Craven Cottage,,,",51.4749,-0.221619
+Hull City,EPL,KC Stadium,,,,"KC Stadium,,,",53.7465,-0.368009
+Ipswich Town,EPL,Portman Road,,,,"Portman Road,,,",52.0544,1.14554
+Leeds United,EPL,Elland Road,,,,"Elland Road,,,",53.7775,-1.57212
+Leicester City,EPL,King Power Stadium,,,,"King Power Stadium,,,",52.6203,-1.14217
+Liverpool,EPL,Anfield,,,,"Anfield,,,",53.4308,-2.96096
+Manchester City,EPL,Etihad Stadium,,,,"Etihad Stadium,,,",53.483,-2.20024
+Manchester United,EPL,Old Trafford,,,,"Old Trafford,,,",53.4631,-2.29139
+Middlesbrough,EPL,Riverside,,,,"Riverside,,,",54.5781,-1.21776
+Milton Keynes Dons,EPL,Stadiummk,,,,"Stadiummk,,,",52.0096,-0.733507
+Newcastle United,EPL,St James Park,,,,"St James Park,,,",54.9756,-1.62179
+Norwich City,EPL,Carrow Road,,,,"Carrow Road,,,",52.6221,1.30912
+Nottingham Forest,EPL,The City Ground,,,,"The City Ground,,,",52.9399,-1.13258
+Oldham Athletic,EPL,Boundary Park,,,,"Boundary Park,,,",53.5551,-2.12847
+Portsmouth,EPL,Fratton Park,,,,"Fratton Park,,,",50.7964,-1.06389
+Queens Park Rangers,EPL,Loftus Road,,,,"Loftus Road,,,",51.5093,-0.232204
+Reading,EPL,Madjeski Stadium,,,,"Madjeski Stadium,,,",51.4222,-0.982777
+Sheffield United,EPL,Glanford Park,,,,"Glanford Park,,,",53.5867,-0.695244
+Sheffield Wednesday,EPL,Bramall Lane,,,,"Bramall Lane,,,",53.3703,-1.47083
+Southampton,EPL,St Mary's Stadium,,,,"St Mary's Stadium,,,",50.9058,-1.39114
+Stoke City,EPL,Britannia Stadium,,,,"Britannia Stadium,,,",52.9884,-2.17542
+Sunderland,EPL,Stadium of Light,,,,"Stadium of Light,,,",54.9146,-1.38837
+Swansea City,EPL,Liberty Stadium,,,,"Liberty Stadium,,,",51.6428,-3.93473
+Swindon Town,EPL,The County Ground,,,,"The County Ground,,,",51.5645,-1.77107
+Tottenham Hotspur,EPL,White Hart Lane,,,,"White Hart Lane,,,",51.6033,-0.065684
+Watford,EPL,Vicarage Road,,,,"Vicarage Road,,,",51.6498,-0.401569
+West Bromwich Albion,EPL,The Hawthorns,,,,"The Hawthorns,,,",52.509,-1.96418
+West Ham United,EPL,Boleyn Ground,,,,"Boleyn Ground,,,",51.5321,0.039225
+Wigan Athletic,EPL,DW Stadium,,,,"DW Stadium,,,",53.5477,-2.65415
+Wolverhampton Wanderers,EPL,Molineux,,,,"Molineux,,,",52.5904,-2.13061
+Athletic Bilbao,La Liga,San Mames Stadium,"Rafael Moreno Pitxitxi Kalea, s/n","48013 Bilbao, Bizkaia",Spain,"San Mames Stadium,Rafael Moreno Pitxitxi Kalea, s/n,48013 Bilbao, Bizkaia, Spain",43.2728848,-2.9713064
+Atletico Madrid,La Liga,Vicente Calderon stadium,"Paseo de la Virgen del Puerto, 67, 28005 Madrid",,Spain,"Vicente Calderon stadium,Paseo de la Virgen del Puerto, 67, 28005 Madrid,, Spain",40.4017243,-3.7206352
+Barcelona,La Liga,Camp Nou,"C. Aristides Maillol, 12, 08028 Barcelona",,Spain,"Camp Nou,C. Aristides Maillol, 12, 08028 Barcelona,, Spain",41.380896,2.1228198
+Celta Vigo,La Liga,Balaidos,"Avda. de Balaidos, s/n, 36210 Vigo, Pontevedra",,Spain,"Balaidos,Avda. de Balaídos, s/n, 36210 Vigo, Pontevedra,, Spain",42.212841,-8.735488
+Cordoba,La Liga,Nuevo Arcangel,"Avda. del Arcangel, s/n, 14010 Cordoba",,Spain,"Nuevo Arcangel,Avda. del Arcangel, s/n, 14010 Cordoba,,Spain",37.8727779,-4.7381013
+Deportivo La Coruna,La Liga,Estadio Riazor,"Rua Manuel Murguia, S/N, 15011 A Coruna",,Spain,"Estadio Riazor,Rua Manuel Murguia, S/N, 15011 A Coruna,, Spain",43.372147,-8.432131
+Eibar,La Liga,Ipurua Municipal Stadium,Ipurua Kalea 2,"Eibar, 59",Spain,"Ipurua Municipal Stadium,Ipurua Kalea 2,Eibar, 59, Spain",43.181441,-2.475205
+Elche CF,La Liga,Martinez Valero,"Av de Manuel Martínez Valero, 3, 03208 Elx, Alicante",,Spain,"Martinez Valero,Av de Manuel Martínez Valero, 3, 03208 Elx, Alicante,, Spain",38.267054,-0.663289
+Espanyol,La Liga,Estadi Cornella-El Prat,"Av. del Baix Llobregat, 100, 08940 Cornella de Llobregat, Barcelona",,Spain,"Estadi Cornella-El Prat,Av. del Baix Llobregat, 100, 08940 Cornella de Llobregat, Barcelona,, Spain",41.3479735,2.0747653
+Getafe,La Liga,Coliseum Alfonso Perez,"Av de Teresa de Calcuta, s/n, 28903 Getafe, Madrid",,Spain,"Coliseum Alfonso Perez,Av de Teresa de Calcuta, s/n, 28903 Getafe, Madrid,, Spain",40.3156239,-3.7181247
+Granada CF,La Liga,Estadio Nuevo Los Cármenes,"Calle del Pintor Manuel Maldonado, s/n, 18007 Granada",,Spain,"Estadio Nuevo Los Cármenes,Calle del Pintor Manuel Maldonado, s/n, 18007 Granada,, Spain",37.155015,-3.596692
+Hercules,La Liga,Jose Rico Perez,"Carrer Foguerer Jose Romeu Zarandieta, s/n, 03005 Alicante",,Spain,"Jose Rico Perez,Carrer Foguerer Jose Romeu Zarandieta, s/n, 03005 Alicante,, Spain",38.3628307,-0.5210565
+Levante,La Liga,Estadi Ciutat de Valencia,"Calle de San Vicente de Paul, 44, 46019 Valencia, Valencia",,Spain,"Estadi Ciutat de Valencia,Calle de San Vicente de Paul, 44, 46019 Valencia, Valencia,, Spain",39.4946486,-0.363847
+Malaga,La Liga,La Rosaleda Stadium,"Paseo Martiricos, s/n, 29011 Malaga",,Spain,"La Rosaleda Stadium,Paseo Martiricos, s/n, 29011 Malaga,, Spain",36.7335796,-4.4266511
+Numancia,La Liga,Los Pajaritos,,Soria,Spain,"Los Pajaritos,,Soria, Spain",41.754,-2.468
+Osasuna,La Liga,El Sadar,,Pamplona,Spain,"El Sadar,,Pamplona, Spain",42.7968131,-1.6373668
+Racing Santander,La Liga,El Srdinero,Santander,Cantabria,Spain,"El Srdinero,Santander,Cantabria, Spain",43.4747616,-3.7930923
+Rayo Vallecano,La Liga,Campo de Futbol de Vallecas,"Calle del Payaso Fofo, s/n, 28018 Madrid",,Spain,"Campo de Futbol de Vallecas,Calle del Payaso Fofo, s/n, 28018 Madrid,, Spain",40.3864182,-3.6547195
+RCD Mallorca,La Liga,Iberostar Estadio,,Palma,Spain,"Iberostar Estadio,,Palma, Spain",39.5899518,2.6300496
+Real Betis,La Liga,Estadio Benito Villamarin,"Av de Heliópolis, s/n, 41012 Sevilla",,Spain,"Estadio Benito Villamarin,Av de Heliópolis, s/n, 41012 Sevilla,, Spain",37.356504,-5.981752
+Real Madrid,La Liga,Santiago Bernabeu,"Av de Concha Espina, 1, 28036 Madrid",,Spain,"Santiago Bernabeu,Av de Concha Espina, 1, 28036 Madrid,, Spain",40.453039,-3.688326
+Real Murcia,La Liga,Nueva Condomina,Murcia,Murcia,Spain,"Nueva Condomina,Murcia,Murcia, Spain",38.0444865,-1.1466363
+Real Sociedad,La Liga,Anoeta Stadium,"Paseo de Anoeta, 1, 20014 Donostia, Gipuzko",,Spain,"Anoeta Stadium,Paseo de Anoeta, 1, 20014 Donostia, Gipuzko,, Spain",43.3013934,-1.973682
+Real Valladolid,La Liga,Estadio Nuevo Jose Zorrilla,"Av. Mundial 82, s/n, 47014 Valladolid",,Spain,"Estadio Nuevo Jose Zorrilla,Av. Mundial 82, s/n, 47014 Valladolid,, Spain",41.6446076,-4.761273
+Real Zaragoza,La Liga,La Romareda,,Zaragoza,Spain,"La Romareda,,Zaragoza, Spain",41.6350994,-0.8985067
+Recreativo,La Liga,Nuevo Colombino,Huelva,Andalusia,Spain,"Nuevo Colombino,Huelva,Andalusia, Spain",37.2540723,-6.93398
+Sevilla,La Liga,Ramon Sanchez Pizjuan Stadium,"Calle Sevilla Futbol Club, 41005 Sevilla",,Spain,"Ramon Sanchez Pizjuan Stadium,Calle Sevilla Futbol Club, 41005 Sevilla,, Spain",37.3840655,-5.9706902
+Sporting Gijon,La Liga,El Molinon,"Av. del Molinon, s/n, 33201 Gijon, Asturias",,Spain,"El Molinon,Av. del Molinon, s/n, 33201 Gijon, Asturias,, Spain",43.5361873,-5.6374561
+UD Almeria,La Liga,Juegos Mediterraneos,Almeria,Andalusia,Spain,"Juegos Mediterraneos,Almeria,Andalusia, Spain",36.8452995,-2.3203502
+Valencia,La Liga,Estadio de Mestalla,"Av. de Suecia, s/n, 46010 Valencia, Valencia",,Spain,"Estadio de Mestalla,Av. de Suecia, s/n, 46010 Valencia, Valencia,, Spain",39.4744078,-0.3576259
+Villarreal,La Liga,Estadio El Madrigal,"Calle de Blasco Ibanez, 2, 12540 Vila-real, Castellon",,Spain,"Estadio El Madrigal,Calle de Blasco Ibanez, 2, 12540 Vila-real, Castellon,, Spain",39.9397706,-0.1005932
+Chicago Fire,MLS,Toyota Park,"Bridgeview, Illinois",,USA,"Toyota Park,Bridgeview, Illinois,,USA",41.7660917,-87.8057585
+Chivas USA,MLS,StubHub Center,"Carson, California",,USA,"StubHub Center,Carson, California,,USA",33.8643378,-118.2611224
+Colorado Rapids,MLS,Dick's Sporting Goods Park,"Commerce City, Colorado",,USA,"Dick's Sporting Goods Park,Commerce City, Colorado,,USA",39.8056867,-104.8918117
+Columbus Crew SC,MLS,Mapfre Stadium,"Columbus, Ohio",,USA,"Mapfre Stadium,Columbus, Ohio,,USA",40.009082,-82.991228
+D.C. United,MLS,RFK Stadium,"Washington, D.C.",,USA,"RFK Stadium,Washington, D.C.,,USA",38.8894514,-76.9722271
+FC Dallas,MLS,Toyota Stadium,"Frisco, Texas",,USA,"Toyota Stadium,Frisco, Texas,,USA",33.1543316,-96.8352041
+Houston Dynamo,MLS,BBVA Compass Stadium,"Houston, Texas",,USA,"BBVA Compass Stadium,Houston, Texas,,USA",29.7521988,-95.3524146
+LA Galaxy,MLS,StubHub Center,"Carson, California",,USA,"StubHub Center,Carson, California,,USA",33.8643378,-118.2611224
+Miami Fusion,MLS,Lockhart Stadium,"Fort Lauderdale, Florida",,USA,"Lockhart Stadium,Fort Lauderdale, Florida,,USA",26.1911896,-80.159543
+Montreal Impact,MLS,Saputo Stadium,"Montreal, Quebec",,Canada,"Saputo Stadium,Montreal, Quebec,,Canada",45.5016889,-73.567256
+New England Revolution,MLS,Gillette Stadium,"Foxborough, Massachusetts",,USA,"Gillette Stadium,Foxborough, Massachusetts,,USA",42.0909458,-71.2643465
+New York City FC,MLS,Yankee Stadium,1 E 161st St,"Bronx, NY 10451",USA,"Yankee Stadium,1 E 161st St,Bronx, NY 10451,USA",40.8296426,-73.9261745
+New York Red Bulls,MLS,Red Bull Arena,"Harrison, New Jersey",,USA,"Red Bull Arena,Harrison, New Jersey,,USA",40.7464901,-74.1562551
+Orlando City SC,MLS,Citrus Bowl,"Orlando, Florida",,USA,"Citrus Bowl,Orlando, Florida,,USA",28.538301,-81.4024837
+Philadelphia Union,MLS,PPL Park,"Chester, Pennsylvania",,USA,"PPL Park,Chester, Pennsylvania,,USA",39.832936,-75.378381
+Portland Timbers,MLS,Providence Park,"Portland, Oregon",,USA,"Providence Park,Portland, Oregon,,USA",45.5215978,-122.6916811
+Real Salt Lake,MLS,Rio Tinto Stadium,"Sandy, Utah",,USA,"Rio Tinto Stadium,Sandy, Utah,,USA",40.5828535,-111.8933106
+San Jose Earthquakes,MLS,Avaya Stadium,"San Jose, California",,USA,"Avaya Stadium,San Jose, California,,USA",37.3508846,-121.9252668
+Seattle Sounders FC,MLS,CenturyLink Field,"Seattle, Washington",,USA,"CenturyLink Field,Seattle, Washington,,USA",47.5951518,-122.3316393
+Sporting Kansas City,MLS,Sporting Park,"Kansas City, Kansas",,USA,"Sporting Park,Kansas City, Kansas,,USA",39.1214043,-94.8233414
+Tampa Bay Mutiny,MLS,Raymond James Stadium,"Tampa, Florida",,USA,"Raymond James Stadium,Tampa, Florida,,USA",27.9758691,-82.5033344
+Toronto FC,MLS,BMO Field,"Toronto, Ontario",,USA,"BMO Field,Toronto, Ontario,,USA",43.6328953,-79.4192221
+Vancouver Whitecaps FC,MLS,BC Place Stadium,,"777 Pacific Blvd, Vancouver, BC V6B 4Y8",Canada,"BC Place Stadium,,777 Pacific Blvd, Vancouver, BC V6B 4Y8,Canada",49.27675,-123.111999
+AC Cesena,Serie A,Stadio Dino Manuzzi,Cesena,Emilia-Romagna,Italy,"Stadio Dino Manuzzi,Cesena, Emilia-Romagna,Italy",44.140378,12.261882
+AC Milan,Serie A,Stadio Giuseppe Meazza,Milan,Lombardy,Italy,"Stadio Giuseppe Meazza,Milan, Lombardy,Italy",45.4781236,9.123962
+AS Roma,Serie A,Stadio della Roma,Rome,Lazio,Italy,"Stadio della Roma,Rome, Lazio,Italy",41.934077,12.454725
+Atalanta,Serie A,Stadio Atleti Azzurri d'Italia,Bergamo,Lombardy,Italy,"Stadio Atleti Azzurri d'Italia,Bergamo, Lombardy,Italy",45.6015675,9.5774783
+Bari,Serie A,Stadio San Nicola,Bari,Apulia,Italy,"Stadio San Nicola,Bari, Apulia,Italy",41.0847298,16.8401352
+Bologna,Serie A,Stadio Renato Dall'Ara,Bologna,Emilia-Romagna,Italy,"Stadio Renato Dall'Ara,Bologna, Emilia-Romagna,Italy",44.492138,11.3103119
+Brescia,Serie A,Stadio Mario Rigamonti,Brescia,Lombardy,Italy,"Stadio Mario Rigamonti,Brescia, Lombardy,Italy",45.5415526,10.2118019
+Cagliari,Serie A,Stadio Sant'Elia,Cagliari,Sardinia,Italy,"Stadio Sant'Elia,Cagliari, Sardinia,Italy",39.1916361,9.1374273
+Catania,Serie A,Stadio Angelo Massimino,Catania,Sicily,Italy,"Stadio Angelo Massimino,Catania, Sicily,Italy",37.5078772,15.0830304
+Chievo,Serie A,Stadio Marc'Antonio Bentegodi,Verona,Veneto,Italy,"Stadio Marc'Antonio Bentegodi,Verona, Veneto,Italy",45.4383842,10.9916215
+Empoli,Serie A,Stadio Carlo Castellani,Empoli,Tuscany,Italy,"Stadio Carlo Castellani,Empoli, Tuscany,Italy",43.7269975,10.9549162
+Fiorentina,Serie A,Stadio Artemio Franchi,Florence,Tuscany,Italy,"Stadio Artemio Franchi,Florence, Tuscany,Italy",43.7695604,11.2558136
+Genoa,Serie A,Stadio Luigi Ferraris,Genoa,Liguria,Italy,"Stadio Luigi Ferraris,Genoa, Liguria,Italy",44.4164093,8.9524953
+Hellas Verona,Serie A,Stadio Marc'Antonio Bentegodi,Verona,,Italy,"Stadio Marc'Antonio Bentegodi,Verona,,Italy",45.4353091,10.9686559
+Internazionale,Serie A,Stadio Giuseppe Meazza,Milan,Lombardy,Italy,"Stadio Giuseppe Meazza,Milan, Lombardy,Italy",45.4781236,9.123962
+Juventus,Serie A,Juventus Stadium,Torino,Piedmont,Italy,"Juventus Stadium,Torino, Piedmont,Italy",45.109569,7.6412644
+Lecce,Serie A,Stadio Via del Mare,Lecce,Apulia,Italy,"Stadio Via del Mare,Lecce, Apulia,Italy",40.3651246,18.2089878
+Livorno,Serie A,Stadio Armando Picchi,Livorno,Tuscany,Italy,"Stadio Armando Picchi,Livorno, Tuscany,Italy",43.5267593,10.3144287
+Napoli,Serie A,Stadio San Paolo,Naples,Campania,Italy,"Stadio San Paolo,Naples, Campania,Italy",40.8279365,14.1930611
+Novara Calcio,Serie A,Stadio Silvio Piola (Novara),Novara,Piedmont,Italy,"Stadio Silvio Piola (Novara),Novara, Piedmont,Italy",45.4358157,8.5959907
+Palermo,Serie A,Stadio Renzo Barbera,Palermo,Sicily,Italy,"Stadio Renzo Barbera,Palermo, Sicily,Italy",38.1528581,13.3420929
+Parma,Serie A,Stadio Ennio Tardini,Parma,Emilia-Romagna,Italy,"Stadio Ennio Tardini,Parma, Emilia-Romagna,Italy",44.7946826,10.3380744
+Pescara,Serie A,Stadio Adriatico,Pescara,Abruzzo,Italy,"Stadio Adriatico,Pescara, Abruzzo,Italy",42.4551407,14.2297838
+Reggina,Serie A,Stadio Giglio,Reggio Emilia,Emilia-Romagna,Italy,"Stadio Giglio,Reggio Emilia, Emilia-Romagna,Italy",44.7136112,10.6478922
+Sampdoria,Serie A,Stadio Luigi Ferraris,Genoa,Liguria,Italy,"Stadio Luigi Ferraris,Genoa, Liguria,Italy",44.4164093,8.9524953
+Sassuolo,Serie A,Stadio Giglio,Reggio Emilia,Emilia-Romagna,Italy,"Stadio Giglio,Reggio Emilia, Emilia-Romagna,Italy",44.7136112,10.6478922
+Siena,Serie A,Stadio Artemio Franchi,Siena,Tuscany,Italy,"Stadio Artemio Franchi,Siena, Tuscany,Italy",43.318809,11.3307574
+SS Lazio,Serie A,Stadio Olimpico,Rome,Lazio,Italy,"Stadio Olimpico,Rome, Lazio,Italy",41.934077,12.454725
+Torino,Serie A,Stadio Olimpico di Torino,Torino,Piedmont,Italy,"Stadio Olimpico di Torino,Torino, Piedmont,Italy",45.0418233,7.6500522
+Udinese,Serie A,Stadio Friuli,Udine,Friuli-Venezia Giulia,Italy,"Stadio Friuli,Udine, Friuli-Venezia Giulia,Italy",46.0817832,13.2007737
